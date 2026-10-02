@@ -13,3 +13,5 @@ Browse the inner README directly — no build required.
 
 ## Source
 Originally curated from DevInterview.io data-structures track.
+
+Built by Girish Lade — [ladestack.in](https://ladestack.in)
